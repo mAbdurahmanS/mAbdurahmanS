@@ -2,8 +2,7 @@
 Im BILL from Indonesia. I'm a Software Engineering, Android Developer. I also made IOT for the comunity, and became a traineer to teach at other SMK. You can check out my LinkedIn at https://www.linkedin.com/in/muhammad-abdurahman-salsabil-9152b51b3/ or my Youtube Channel at https://www.youtube.com/channel/UCLrZJ7uUZ_7f9UZt6RxVTEA
 
 ## Skills and Experience
-* 💻 Java/ Kotlin/ C++/ PHP/ JS
-* 💻 C++/ PHP/ JS
+* 💻 PHP/ JS/ Java/ Kotlin/ C++
 * 💻 Laravel
 * 💻 Vue.Js/ React
 
