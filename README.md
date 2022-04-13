@@ -4,7 +4,7 @@ Im BILL from Indonesia. I'm a Software Engineering, Android Developer. I also ma
 ## Skills and Experience
 * 💻 PHP/ JS/ Java/ Kotlin/ C++
 * 💻 Laravel
-* 💻 Vue.Js/ React
+* 💻 Vue JS/ React JS
 * 💻 Mysql/ Firebase
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mAbdurahmanS)](https://github.com/anuraghazra/github-readme-stats)
