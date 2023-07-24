@@ -5,5 +5,3 @@ Im BILL from Indonesia. I'm a Laravel Developer. I also made IOT for the comunit
 * 💻 Laravel/ GraphQL
 * 💻 Next JS
 * 💻 Mysql/ Firebase
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mAbdurahmanS)](https://github.com/anuraghazra/github-readme-stats)
